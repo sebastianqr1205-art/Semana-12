@@ -1,1 +1,2 @@
-
+La automatización se activa mediante un Webhook en n8n cuando un ciudadano registra un nuevo Apoyo en la base de datos y la causa alcanza un hito importante (por ejemplo: conseguir sus primeros 50 apoyos).
+Se envía una notificación automática a un canal público de Telegram para celebrar el avance. El formato del mensaje es el siguiente:🚀 ¡Meta alcanzada!La causa "[Título de la Causa]" acaba de recibir un nuevo respaldo y ya cuenta con [Total de Apoyos] firmas.📄 Puedes ver la petición formal aquí: [Enlace al PDF]¡Gracias a todos por sumar su voz! 🙌
